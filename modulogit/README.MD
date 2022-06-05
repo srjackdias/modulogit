@@ -1,4 +1,4 @@
-meu primeito sistema no git(alterado e Atualizado!)
+meu primeito sistema no git
 
 alterar o que quiser
 alteração feita no MASTER
